@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "a5a1a5ec-b8d4-4e3b-8d2a-0d7d5e246111",
+    "Name": "Bicep Curl",
+    "MuscleGroup": 0,
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  },
+  {
+    "Id": "d3a3a8f2-0f58-4c88-9cde-dfbd83c07e22",
+    "Name": "Bench Press",
+    "MuscleGroup": 1,
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  },
+  {
+    "Id": "f4b7e5cf-9b73-4567-9b2c-7740f9a71b89",
+    "Name": "Crunches",
+    "MuscleGroup": 2,
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  },
+  {
+    "Id": "e2f7dc5e-4a8d-4d4e-a37b-5c1d45b3c833",
+    "Name": "Squat",
+    "MuscleGroup": 3,
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  },
+  {
+    "Id": "b5c7f2a8-dfc2-4f88-8b7f-cfdbdf83c71a",
+    "Name": "Overhead Press",
+    "MuscleGroup": 4,
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  }
+]

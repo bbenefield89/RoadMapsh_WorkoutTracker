@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "2e2432d6-7f9d-470a-b191-a0fded2b4d40",
+    "WorkoutDayId": "a5f0a5ec-b8d4-4e3b-8d2a-0d7d5e246111",
+    "ExerciseId": "a5a1a5ec-b8d4-4e3b-8d2a-0d7d5e246111",
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  },
+  {
+    "Id": "3afdebd6-f42e-494b-bf4e-f354100790c8",
+    "WorkoutDayId": "a5f0a5ec-b8d4-4e3b-8d2a-0d7d5e246111",
+    "ExerciseId": "d3a3a8f2-0f58-4c88-9cde-dfbd83c07e22",
+    "CreatedOn": "2025-01-01T08:00:00Z",
+    "UpdatedOn": "2025-01-01T08:00:00Z"
+  },
+  {
+    "Id": "1c5bfbfc-61c7-484d-92b4-3a4361da9a1f",
+    "WorkoutDayId": "b6f0b6ec-c8d4-4f3b-9d3a-1f8e5e257222",
+    "ExerciseId": "f4b7e5cf-9b73-4567-9b2c-7740f9a71b89",
+    "CreatedOn": "2025-01-02T10:00:00Z",
+    "UpdatedOn": "2025-01-02T10:00:00Z"
+  },
+  {
+    "Id": "e5c148f7-3010-4255-85b7-c70ae6d3236a",
+    "WorkoutDayId": "c7f0c7ec-d8d4-4e4b-ae3a-2e9f6e268333",
+    "ExerciseId": "e2f7dc5e-4a8d-4d4e-a37b-5c1d45b3c833",
+    "CreatedOn": "2025-01-03T14:30:00Z",
+    "UpdatedOn": "2025-01-03T14:30:00Z"
+  }
+]
